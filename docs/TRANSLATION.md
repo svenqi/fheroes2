@@ -7,7 +7,7 @@ subdirectory of the project source tree. The current instruction is designed for
 
 ![Belarusian](https://img.shields.io/endpoint?url=https://ihhub.github.io/fheroes2/json/lang_be.json)
 ![Bulgarian](https://img.shields.io/endpoint?url=https://ihhub.github.io/fheroes2/json/lang_bg.json)
-![Chinese](https://img.shields.io/endpoint?url=https://ihhub.github.io/fheroes2/json/lang_cn.json)
+![Chinese](https://img.shields.io/endpoint?url=https://svenqi.github.io/fheroes2/json/lang_cn.json)
 ![Czech](https://img.shields.io/endpoint?url=https://ihhub.github.io/fheroes2/json/lang_cs.json)
 ![German](https://img.shields.io/endpoint?url=https://ihhub.github.io/fheroes2/json/lang_de.json)
 ![Danish](https://img.shields.io/endpoint?url=https://ihhub.github.io/fheroes2/json/lang_dk.json)
